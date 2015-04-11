@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<!-- NMML reference: https://gist.github.com/1763850 -->
+	
+	<!-- metadata, make sure 'package' is at least 3 segments (ie. com.mycompany.myproject) -->
+	<meta title="Industrial Runner" package="book.openfl.gameStates" version="1.0.0" company="Pedroma" />
+	
+	<!-- output -->
+	<app main="IndustrialRunner" file="IndustrialRunner" path="bin" />
+	
+	<window background="#e6e4e3" fps="60" />
+	<window width="800" height="480" unless="mobile" />
+	<window orientation="landscape" vsync="false" antialiasing="0" if="cpp" />
+	
+	<!-- classpath, haxe libs -->
+	<source path="src" />
+	<haxelib name="openfl" />
+	<haxelib name="actuate" />
+	<haxelib name="tilelayer"/>
+  <haxelib name="physaxe"/>	
+  <haxelib name="kong.hx"/>
+	
+	<!-- <haxeflag name="-swf-version=20" if="flash" ></haxeflag> -->
+	<!-- <app swf-version="11.7"/> -->
+		
+	<!-- assets -->
+  <icon path="assets/img/icon/icon.svg" />
+	<assets path="assets/img" rename="img" />
+	<assets path="assets/font" rename="font" />
+	<assets path="assets/music" rename="music" />
+	
+	<!-- optimize output
+	<haxeflag name="-dce full" /> -->
+	
+</project>

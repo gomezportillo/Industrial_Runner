@@ -1,0 +1,7 @@
+<TextureAtlas imagePath='Parallax_day.png'>
+	<SubTexture name="buildings0" x="0" y="0" width="213" height="142" />
+	<SubTexture name="buildings1" x="0" y="143" width="272" height="150" />
+	<SubTexture name="flats" x="214" y="0" width="270" height="103" />
+	<SubTexture name="sky" x="0" y="292" width="272" height="160" />
+	<SubTexture name="ground" x="214" y="104" width="267" height="40" />
+</TextureAtlas>

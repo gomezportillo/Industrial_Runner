@@ -1,0 +1,4 @@
+<TextureAtlas imagePath='Parallax_menu.png'>
+	<SubTexture name="metal-background" x="0" y="0" width="799" height="400" />
+	<SubTexture name="strip" x="0" y="400" width="635" height="101" />
+</TextureAtlas>
