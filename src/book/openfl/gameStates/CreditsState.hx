@@ -67,7 +67,7 @@ class CreditsState extends GameState {
  override function mouseClicked (event:MouseEvent) : Void { 
       
     if (checkPedroma(event) == 1) {
-      Lib.getURL(new URLRequest("https://github.com/pedroma-gomezp/"));
+      Lib.getURL(new URLRequest("https://github.com/pedroma-gomezp/Industrial_Runner/tree/master"));
 
     } else if (checkAnsimuz(event) == 1) {
       Lib.getURL(new URLRequest("https://twitter.com/ansimuz"));
