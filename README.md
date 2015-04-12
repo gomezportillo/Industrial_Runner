@@ -10,7 +10,7 @@ Industrial Runner
  
 
 Download the file, decompress it and execute the IndustrialRunner file.
-My record is 56, will you beat me?;-)
+My highest score is 56, will you beat me?;-)
 
 ***
 
