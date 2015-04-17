@@ -16,7 +16,7 @@ My highest score is 56, will you beat me?;-)
 
 Click on any screenshoot to go to the video demo
 
-[![alt tag] http://i.imgur.com/YdSb8cp.png)] (https://www.youtube.com/watch?v=Gt_26qA9vFQ&feature=youtu.be)
+[![alt tag] (http://i.imgur.com/YdSb8cp.png)] (https://www.youtube.com/watch?v=Gt_26qA9vFQ&feature=youtu.be)
 
 ***
 
