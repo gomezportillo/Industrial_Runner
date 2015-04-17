@@ -1,7 +1,7 @@
 Industrial Runner
 ==================================================
 **Run for your life!**
-*Game developed with OpenFL in Haxe. Exclusive for Linux machines*
+*Free minigame developed with OpenFL in Haxe. Exclusive for Linux machines*
 
 ***
 
