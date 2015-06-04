@@ -6,7 +6,7 @@ Industrial Runner
 ***
 
 *Download link:*
-        https://mega.co.nz/#!nMZWXZpB!dvixg8apWA2x7aStDmmwmS1TDIukUPkXhE6cVRvFy5I
+        https://goo.gl/gL5xUx
  
 
 Download the file, decompress it and execute the IndustrialRunner file.
