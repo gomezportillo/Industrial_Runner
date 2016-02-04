@@ -5,7 +5,7 @@ Industrial Runner
 
 ***
 
-[*Download link:*](https://github.com/gomezportillo/Industrial_Runner/blob/executable/Industrial_Runner.zip?raw=true)
+[**Download link**](https://github.com/gomezportillo/Industrial_Runner/blob/executable/Industrial_Runner.zip?raw=true)
  
 
 Download the file, decompress it and execute the IndustrialRunner file.
